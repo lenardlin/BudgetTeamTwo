@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=076128c5_002D0c62_002D4098_002D8c1e_002Dbc261cae875f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="invalid_period" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1453DF00-DDEA-494E-AFA8-3A5124D5C6F7::net8.0::BudgetUnitTests.Tests.invalid_period&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9938001b_002Dbce8_002D4ca7_002D8d61_002D33fce3ea50f9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="invalid_period #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1453DF00-DDEA-494E-AFA8-3A5124D5C6F7::net8.0::BudgetUnitTests.Tests.invalid_period&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WorkCode\\Joey_Tennis\\BudgetTeamTwo\\BudgetUnitTests\\BudgetUnitTests.csproj": {}
+    "C:\\WorkCode\\BudgetTeamTwo\\BudgetTeamTwo\\BudgetUnitTests\\BudgetUnitTests.csproj": {}
   },
   "projects": {
-    "C:\\WorkCode\\Joey_Tennis\\BudgetTeamTwo\\BudgetUnitTests\\BudgetUnitTests.csproj": {
+    "C:\\WorkCode\\BudgetTeamTwo\\BudgetTeamTwo\\BudgetUnitTests\\BudgetUnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WorkCode\\Joey_Tennis\\BudgetTeamTwo\\BudgetUnitTests\\BudgetUnitTests.csproj",
+        "projectUniqueName": "C:\\WorkCode\\BudgetTeamTwo\\BudgetTeamTwo\\BudgetUnitTests\\BudgetUnitTests.csproj",
         "projectName": "BudgetUnitTests",
-        "projectPath": "C:\\WorkCode\\Joey_Tennis\\BudgetTeamTwo\\BudgetUnitTests\\BudgetUnitTests.csproj",
+        "projectPath": "C:\\WorkCode\\BudgetTeamTwo\\BudgetTeamTwo\\BudgetUnitTests\\BudgetUnitTests.csproj",
         "packagesPath": "C:\\Users\\Lenard.Lin\\.nuget\\packages\\",
-        "outputPath": "C:\\WorkCode\\Joey_Tennis\\BudgetTeamTwo\\BudgetUnitTests\\obj\\",
+        "outputPath": "C:\\WorkCode\\BudgetTeamTwo\\BudgetTeamTwo\\BudgetUnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenard.Lin\\AppData\\Roaming\\NuGet\\NuGet.Config",

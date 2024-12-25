@@ -1,3 +1,5 @@
+using System.Runtime.InteropServices.JavaScript;
+
 namespace BudgetUnitTests;
 
 public class Tests
@@ -8,8 +10,23 @@ public class Tests
     }
 
     [Test]
-    public void Test1()
+    public void invalid_period()
     {
-        Assert.Pass();
+        var budgetService = new BudgetService();
+        var budget = budgetService.Query(new DateTime(2024,1,2), new DateTime(2024,1,1));
+        Assert.AreEqual(0, budget);
+    }
+}
+
+public class BudgetService
+{
+    public decimal Query(DateTime start, DateTime end)
+    {
+        if (start > end)
+        {
+            return 0;
+        }
+
+        return 0;
     }
 }

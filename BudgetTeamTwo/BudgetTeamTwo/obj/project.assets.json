@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WorkCode\\Joey_Tennis\\BudgetTeamTwo\\BudgetTeamTwo\\BudgetTeamTwo.csproj",
+      "projectUniqueName": "C:\\WorkCode\\BudgetTeamTwo\\BudgetTeamTwo\\BudgetTeamTwo\\BudgetTeamTwo.csproj",
       "projectName": "BudgetTeamTwo",
-      "projectPath": "C:\\WorkCode\\Joey_Tennis\\BudgetTeamTwo\\BudgetTeamTwo\\BudgetTeamTwo.csproj",
+      "projectPath": "C:\\WorkCode\\BudgetTeamTwo\\BudgetTeamTwo\\BudgetTeamTwo\\BudgetTeamTwo.csproj",
       "packagesPath": "C:\\Users\\Lenard.Lin\\.nuget\\packages\\",
-      "outputPath": "C:\\WorkCode\\Joey_Tennis\\BudgetTeamTwo\\BudgetTeamTwo\\obj\\",
+      "outputPath": "C:\\WorkCode\\BudgetTeamTwo\\BudgetTeamTwo\\BudgetTeamTwo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenard.Lin\\AppData\\Roaming\\NuGet\\NuGet.Config",
