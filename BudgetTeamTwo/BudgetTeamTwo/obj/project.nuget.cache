@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "f459zR1zoTM=",
+  "success": true,
+  "projectFilePath": "C:\\WorkCode\\Joey_Tennis\\BudgetTeamTwo\\BudgetTeamTwo\\BudgetTeamTwo.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.owgps.net/api/v2'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
